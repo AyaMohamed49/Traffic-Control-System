@@ -1,0 +1,4 @@
+﻿  TrafficControlSystem.cpp
+C:\Users\ayamo\source\repos\TrafficControlSystem\TrafficControlSystem\TrafficControlSystem.cpp(630,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ayamo\source\repos\TrafficControlSystem\TrafficControlSystem\TrafficControlSystem.cpp(780): warning C4715: 'menu': not all control paths return a value
+  TrafficControlSystem.vcxproj -> C:\Users\ayamo\source\repos\TrafficControlSystem\Debug\TrafficControlSystem.exe
